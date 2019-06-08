@@ -1,0 +1,9 @@
+C:\t200\source\repos\CS2\Calculator\bin\Release\Calculator.exe.config
+C:\t200\source\repos\CS2\Calculator\bin\Release\Calculator.exe
+C:\t200\source\repos\CS2\Calculator\bin\Release\Calculator.pdb
+C:\t200\source\repos\CS2\Calculator\obj\Release\Calculator.Form1.resources
+C:\t200\source\repos\CS2\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\t200\source\repos\CS2\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\t200\source\repos\CS2\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\t200\source\repos\CS2\Calculator\obj\Release\Calculator.exe
+C:\t200\source\repos\CS2\Calculator\obj\Release\Calculator.pdb
